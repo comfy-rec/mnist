@@ -1,3 +1,3 @@
-# mnist_dnn_cnn_classification
+# supervised learning
 
 10 class
