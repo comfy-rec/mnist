@@ -26,7 +26,7 @@ mnist database is a 28x28 pixels grayscale image database of handwritten numbers
 
 ### test
 
-10000 images
+10000 images, 10 classes(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
 ## Usage
 
