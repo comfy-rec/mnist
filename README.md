@@ -4,15 +4,19 @@ a keras implementation of simple dnn, cnn model based 10 classes(0, 1, 2, 3, 4, 
 
 ## requirements
 
-python 3.0
+keras 2.2.4
 
-tensorflow
+matplotlib 3.4.2
 
-keras
+numpy 1.20.1
 
-matplotlib
+opencv-python 4.5.2.52
 
-numpy
+python 3.7.10
+
+scikit-learn 0.24.2
+
+tensorflow 2.1.0
 
 ## datasets
 
