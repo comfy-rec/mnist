@@ -1,4 +1,4 @@
-# mnist classification
+# mnist dnn cnn classification
 
 a keras implementation of simple dnn, cnn model based 10 classes(0, 1, 2, 3, 4, 5, 6, 7, 8, 9) classification on supervised learning.
 
