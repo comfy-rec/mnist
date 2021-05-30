@@ -80,6 +80,3 @@ plot_loss(history)
 plt.show()
 plot_acc(history)
 plt.show()
-
-# sequential()
-
