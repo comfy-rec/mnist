@@ -65,7 +65,7 @@ model = Model(inputs=input_tensor, outputs=output_tensor)
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.summary()
 
-# 학습 시켜야죠
+# 학습
 history = model.fit(X_train, y_train, batch_size=batch_size,
                     epochs=epochs, verbose=1, validation_split=0.2)
 
