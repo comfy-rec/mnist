@@ -18,6 +18,10 @@ scikit-learn 0.24.2
 
 tensorflow 2.1.0
 
+anaconda 3
+
+pycharm
+
 ## datasets
 
 mnist
